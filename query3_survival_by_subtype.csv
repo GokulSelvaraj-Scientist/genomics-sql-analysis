@@ -1,0 +1,4 @@
+"subtype","n_patients","mean_os_years","min_os_years","max_os_years","mean_age"
+"Subtype 3",54,2.7,0.01,13.59,65.2
+"Subtype 1",23,2.53,0.27,8.68,68.2
+"Subtype 2",41,1.82,0.16,9.21,65.6

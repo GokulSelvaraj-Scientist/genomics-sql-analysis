@@ -1,0 +1,3 @@
+"tumor_stage","n_patients","mean_os_years","min_os_years","max_os_years","mean_os_days"
+"Stage I",107,2.37,0.01,13.59,865
+"Stage IV",11,2.3,0.16,7.35,838
